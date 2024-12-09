@@ -1,0 +1,25 @@
+body {
+    background-color: #B3C2D5;
+}
+.container {
+    padding: 15px;
+    background-color: #7B8491;
+    color: #D8E1E9;
+    border-radius: 10px;
+    font-family: "courier prime", serif;
+}
+.nav-link {
+    color: #D8E1E9;
+    font-family: "courier prime", serif;
+}
+.navbar {
+    background-color: #7B8491;
+}
+.btn, .form-control {
+    font-family: "courier prime", serif;
+}
+.container2 {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center; /* Centers the image vertically */
+}
